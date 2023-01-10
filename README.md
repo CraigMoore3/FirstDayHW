@@ -3,6 +3,6 @@
 
 *Quick and easy*
 
-1.All
-2.The
-3.Time
+1. All
+2. The
+3. Time
